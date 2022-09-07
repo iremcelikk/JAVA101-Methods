@@ -3,3 +3,5 @@
 1- Palindrome -> Description: Finds whether the entered number is a palindrome number
 
 2-FibonacciRecursive -> Description: Finds the fibonacci nth element
+
+3-AdvancedCalculator -> Description: Advanced calculator execute some operations(addition, extraction, multiplication, division, power, factorial, modulo, rectangle perimeter and area)

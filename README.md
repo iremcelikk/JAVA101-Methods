@@ -10,4 +10,4 @@
 
 5-PrimeNumberRecursive -> Description: Finds whether the entered number is prime number with recursive function
 
-6-CreatePattern -> Description: With recursive function, the entered number is decreased by 5 until it becomes 0 or negative, then it is increased by 5 until the entered number is reached and printed on the screen 
+6-SerialPatternRecursive -> Description: With recursive function, the entered number is decreased by 5 until it becomes 0 or negative, then it is increased by 5 until the entered number is reached and printed on the screen 
